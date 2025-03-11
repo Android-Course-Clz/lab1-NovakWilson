@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XmlProfileActivity</string>
+    <string name="like_desc">Like button</string>
+    <string name="comment_desc">Comment button</string>
+</resources>
